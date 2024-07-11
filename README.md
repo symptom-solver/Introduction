@@ -1,13 +1,13 @@
 # Software as a Medical Device: SymptomSolver
 
 ## Introduction
-Welcome to the documentation for SymptomSolver, an innovative medical software designed to empower users by providing initial insights into potential illnesses based on reported symptoms. SymptomSolver utilizes a sophisticated decision tree model trained on extensive datasets, enabling individuals to conveniently access preliminary diagnostic information from any location with internet connectivity. Developed under agile Scrum methodologies, our iterative approach ensures continuous enhancement and responsiveness to user feedback, resulting in a robust web application accessible across diverse devices and platforms. This documentation provides comprehensive insights into how SymptomSolver enhances healthcare accessibility, efficiency, and regulatory compliance.
+Welcome to the documentation for SymptomSolver, a innovative medical software designed to empower users by offering initial insights into potential illnesses based on reported symptoms. SymptomSolver employs an advanced model trained on extensive datasets, enabling users to easily access preliminary diagnostic information from any location with internet access. Developed using agile Scrum methodologies, our iterative approach ensures continuous improvement and responsiveness to feedback from stakeholders, resulting in a robust web application accessible across various devices and platforms. This documentation offers a detailed overview of how SymptomSolver improves healthcare accessibility, efficiency, and regulatory compliance.
 
 ## Key Components
 
 - **Frontend Application:** The frontend allows users to input symptoms easily and efficiently. It provides a user-friendly interface where individuals can input their symptoms and receive a curated list of potential diseases. The interface is designed to be intuitive and accessible, catering to users with varying levels of technical proficiency.
   
-- **Backend System:** SymptomSolver's backend processes symptom data using a decision tree classifier. This system matches reported symptoms with diseases probabilistically, ensuring accurate and reliable diagnostic suggestions. The backend architecture is designed for scalability and performance, capable of handling large datasets to support rapid and precise health assessments.
+- **Backend System:** SymptomSolver's backend processes symptom data using a system That matches reported symptoms with diseases probabilistically, ensuring accurate and reliable diagnostic suggestions. The backend architecture is designed for scalability and performance, capable of handling large datasets to support rapid and precise health assessments.
   
 - **Infrastructure as Code:** Our infrastructure supports seamless deployment and scalability of both frontend and backend components. Using Infrastructure as Code (IaC) principles, we ensure reliability and performance across varying operational scales. This approach enables efficient updates and maintenance through automated deployment scripts, enhancing overall system reliability and availability.
 
