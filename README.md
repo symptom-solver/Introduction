@@ -25,6 +25,6 @@ Adherence to the IEC 62304 standard is foundational to our development process, 
 - **Ali and Mostafa (Usability):** Focus on user-centric design principles to ensure SymptomSolver is intuitive and accessible across various user environments. By incorporating stakeholder feedback and conducting usability testing, they continuously refine the user experience to enhance healthcare provider and end-user satisfaction.
 
 ## Conclusion
-The Symptom Solver application represents a significant advancement in accessible healthcare diagnostics. By integrating advanced technology with a user-centric design approach, we aim to provide a reliable tool for preliminary diagnosis while emphasizing the importance of consulting healthcare professionals for accurate diagnosis and treatment.
+The Symptom Solver application represents a advancement in accessible healthcare diagnostics. By integrating advanced technology with a user-centric design approach, we aim to provide a reliable tool for preliminary diagnosis while emphasizing the importance of consulting healthcare professionals for accurate diagnosis and treatment.
 
 Thank you for your attention to this documentation. Please refer to the following sections for detailed insights into our development process and implementation.
